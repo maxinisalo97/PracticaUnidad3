@@ -106,4 +106,7 @@ public class CCuenta {
     {
         return cuenta;
     }
+    public void setCuenta(String cuenta){
+        this.cuenta = cuenta;
+    }
 }
